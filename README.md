@@ -1,4 +1,4 @@
-## Projetos de Robótica
+## Projetos de Robótica Educacional
 
 Disponiblização dos códigos-fontes do trabalho ENSINO DE ROBÓTICA EDUCACIONAL UTILIZANDO METODOLOGIAS LÚDICAS E ATIVAS PARA O DESENVOLVIMENTO DO PENSAMENTO COMPUTACIONAL que teve o intuito de desenvolver projetos que resolvão algum problema do cotidiano (ambiental, escolar, sociais, entre outros).
 
