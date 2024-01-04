@@ -1,5 +1,5 @@
 # Projetos
-Desenvolvimento de um projeto, resolvendo algum problema do cotidiano (ambiental, escolar, sociais, entre outros).
+Desenvolvimento de projetos que resolvão algum problema do cotidiano (ambiental, escolar, sociais, entre outros).
 
 - O projeto do cod_01 consistiu em um Óculos Anti-Sono, desenvolvido por Shinganapure (2021), cujo objetivo foi alertar motoristas quando sentir sonolência, evitando assim possíveis acidentes. Utilizou-se um Arduíno Pro Mini, sensor de obstáculos, transistor BC547, motor de vibração, Buzzer 5V e um resistor de 4.7KΩ, além de uma armação de óculos.
 - O cod_02 é o projeto denominado Lixeira Inteligente (CARVALHO, 2020), com o intuito de ser útil em hospitais ou para pessoas com mobilidade reduzida. Utilizou-se um Arduíno UNO, micro servo motor de 9g, sensor de ultrassom HC-SR04, além de um balde, papelão, uma moeda, arruela e fio Dental.
@@ -8,7 +8,6 @@ Desenvolvimento de um projeto, resolvendo algum problema do cotidiano (ambiental
 - O projeto do cod_05 foi Casa Inteligente, inspirado em Mandal (2020), na qual era possível simular automação residencial usando Arduíno UNO, módulo relé 4 Canais 5v, módulo bluetooth, LED e um motor DC, além de papelão para construir a casa.
 - O cod_06 aprimorou o projeto de Silva (2022),  chamado de Boné para Deficientes Visuais, que teve como finalidade o desenvolvimento de um acessório para os cegos visando proporcionar maior liberdade de movimentação e consequente melhoria na vida diária do usuário. O boné tem a capacidade de verificar se existem barreiras a frente, as quais estão fora do alcance da bengala. O projeto contou com um Arduíno NANO, LED, motor de vibração, buzzer 5V, sensor de ultrassom HC-SR04 e um resistor de 350Ω,  além de um boné.
 - O cod_07, com o projeto Irrigação Automática (STRAUB, 2019) teve como finalidade possibilitar os cuidados de uma planta de forma autônoma, eliminando qualquer risco de falta ou excesso de água e proporcionando saúde e beleza para a planta. Esse projeto contou com um Arduíno UNO, sensor de umidade de solo, uma mini bomba d’água, módulo relé 5V 1 Canal, fonte de alimentação 6VDC, além de 1 metro de mangueira para aquário e um balde com água.
-
 
 
 **Referências**
