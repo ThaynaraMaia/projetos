@@ -3,7 +3,7 @@
 Disponiblização dos códigos-fontes do trabalho ENSINO DE ROBÓTICA EDUCACIONAL UTILIZANDO METODOLOGIAS LÚDICAS E ATIVAS PARA O DESENVOLVIMENTO DO PENSAMENTO COMPUTACIONAL que teve o intuito de desenvolver projetos que resolvão algum problema do cotidiano (ambiental, escolar, sociais, entre outros).
 
 1. O projeto do **cod_01** consistiu em um Óculos Anti-Sono, desenvolvido por Shinganapure (2021), cujo objetivo foi alertar motoristas quando sentir sonolência, evitando assim possíveis acidentes. Utilizou-se um Arduíno Pro Mini, sensor de obstáculos, transistor BC547, motor de vibração, Buzzer 5V e um resistor de 4.7KΩ, além de uma armação de óculos.
-  (/blob/main/imagens/esquema_01.jpg)
+<img src="/imagens/esquema_01.jpg)">
 1. O **cod_02** é o projeto denominado Lixeira Inteligente (CARVALHO, 2020), com o intuito de ser útil em hospitais ou para pessoas com mobilidade reduzida. Utilizou-se um Arduíno UNO, micro servo motor de 9g, sensor de ultrassom HC-SR04, além de um balde, papelão, uma moeda, arruela e fio Dental.
 1. O **cod_03** é o projeto Segurança de Porta (HOBBY, 2020), teve como finalidade permite a entrada somente de pessoas autorizadas e maior segurança já que possibilita a abertura de portas de maneira rápida e simples, onde basta passar o cartão em frente ao leitor RFID para liberar a fechadura. Esse projeto foi composto por um kit módulo leitor Rfid Mfrc522, display LCD, módulo I2C, servo motor, Arduíno UNO, além de uma fechadura da porta e um arame.
 1. O projeto Detector de Fumaça e Gás do **cod_04**, proposto por Straub (2017), têm como objetivo verificar a presença de gás inflamável e/ou fumaça no local. Entre os componentes estavam um sensor de gás inflamável e fumaça MQ-2, Arduíno UNO, LEDs e um Buzzer 5V.
