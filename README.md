@@ -24,7 +24,8 @@ Disponiblização dos códigos-fontes do trabalho ENSINO DE ROBÓTICA EDUCACIONA
 <div align="center"><img src="/imagens/esquema_07.jpg" width="500"></div>
 
 
-Para ciitações 
+Para ciitações:
+
 SANTOS, Thaynara Cristina Maia dos. Ensino de Robótica Educacional utilizando metodologias lúdicas e ativas para o desenvolvimento do pensamento computacional. 2024. 99 p. Dissertação (Ciência da Computação) - Universidade Federal do ABC, Santo André, 2023.
 
 
