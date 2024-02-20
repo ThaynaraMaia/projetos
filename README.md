@@ -39,7 +39,7 @@ MANDAL, J. P. DIY home automation using Arduino, Relay and Bluetooth Module(HC-0
 
 SHINGANAPURE, S. Anti-Sleep Glasses. 2021. <https://www.hackster.io/shubhamsuresh/anti-sleep-glasses-71dce3>. Acesso em 28 de agosto de 2023.
 
-SILVA, K. S. D. BON´E COM SINALIZADOR SONORO PARA AUXILIAR DEFICIENTES VISUAIS. 2022. <https://fbjc.com.br/mostraDetalhes.php?projeto=418>. Acesso em 28 de agosto de 2023.
+SILVA, K. S. D. BONÉ COM SINALIZADOR SONORO PARA AUXILIAR DEFICIENTES VISUAIS. 2022. <https://fbjc.com.br/mostraDetalhes.php?projeto=418>. Acesso em 28 de agosto de 2023.
 
 STRAUB, M. G. SENSOR DE GÁS ARDUINO MQ-2 PARA GASES INFLAMÁVEIS E FUMA¸CA. 2017. <https://www.usinainfo.com.br/blog/sensor-de-gas-arduino-mq-2-para-gases-inflamaveis-e-fumaca/>. Acesso em 28 de agosto de 2023.
 
