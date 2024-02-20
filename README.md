@@ -24,6 +24,10 @@ Disponiblização dos códigos-fontes do trabalho ENSINO DE ROBÓTICA EDUCACIONA
 <div align="center"><img src="/imagens/esquema_07.jpg" width="500"></div>
 
 
+Para ciitações 
+SANTOS, Thaynara Cristina Maia dos. Ensino de Robótica Educacional utilizando metodologias lúdicas e ativas para o desenvolvimento do pensamento computacional. 2024. 99 p. Dissertação (Ciência da Computação) - Universidade Federal do ABC, Santo André, 2023.
+
+
 ### **Referências**
 
 CARVALHO, E. Como CRIAR uma Lixeira Inteligente com ARDUINO. 2020. <https://youtu.be/g32x-fCgWKU?si=UBm9ZsR6QkqRrvHJ>. Acesso em 28 de agosto de 2023.
